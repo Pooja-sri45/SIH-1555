@@ -11,17 +11,7 @@ Background: The AYUSH sector relies heavily on medicinal plants and herbs, which
 Ministry of Ayush
 
 ## Idea
-We propose AyurVruksha – a web-based and mobile-compatible Virtual Herbal Garden where users can:
-
-Explore a 3D-rendered herbal landscape
-
-Learn about each plant through audio-visual content
-
-Discover plants based on specific ailments or regions
-
-Engage with the content through notes, bookmarks, and social sharing
-
-It brings traditional knowledge to fingertips using immersive, user-friendly technology.
+We propose Sanjeevani360, a next-gen Virtual Herbal Garden that blends technology with traditional knowledge. The project provides a 360° interactive digital space where users can explore India's medicinal plant heritage. Users can walk through a simulated herbal garden, interact with 3D plants, and access rich educational content aligned with AYUSH systems.
 
 
 ## Proposed Solution / Architecture Diagram
